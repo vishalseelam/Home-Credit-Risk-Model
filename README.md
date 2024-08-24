@@ -1,7 +1,6 @@
 
 # Home Credit Default Prediction
 
-![Home Credit Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Home_Credit_Group_logo.svg/1200px-Home_Credit_Group_logo.svg.png)
 
 This repository contains the code and resources used to develop a machine learning model that predicts the likelihood of a customer defaulting on a loan. The project was part of the Home Credit Kaggle competition and focuses on creating a robust and stable model that performs well both in the present and future, minimizing the risk of performance degradation.
 
